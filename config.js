@@ -32,8 +32,8 @@ function pickRandom(list) {
 // Global Staff
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
 global.linkGC = ['https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'] // ganti jadi group lu
-global.owner = ['62831433937633', '6285733374626' ,'6288217277973','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
-global.mods = ['6285231651905'] // Want some help?
+global.owner = ['6285733374626', '628531433937633' ,'6288217277973','62831433937630','6285704954639', '62895336282144', '6285712420674'] // Put your number here
+global.mods = ['6285733374626'] // Want some help?
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
